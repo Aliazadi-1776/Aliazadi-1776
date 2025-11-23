@@ -7,8 +7,11 @@ im
 ░░╚██╔╝░╚██╔╝░██║░░██║███████╗██║░╚███║╚█████╔╝██║░░██║
 ░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝░╚════╝░╚═╝░░╚═╝                                                              
 ```
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ali_azadi_123)
 
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali.azadi.7617@gmail.com)
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ali_azadi_123)
 ## About Me
 
 Hey there 👋  
