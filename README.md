@@ -8,9 +8,16 @@ im
 ░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝░╚════╝░╚═╝░░╚═╝                                                              
 ```
 
+
 ## About Me
 
-With a strong enthusiasm for **JavaScript**, I am constantly learning new technologies to improve my skills. I enjoy working on exciting projects that challenge my creativity and technical abilities.
+Hey there 👋  
+I'm Ali — a JavaScript enjoyer who loves building stuff that feels like it came straight out of a terminal 💻✨
+
+I’m always learning, always experimenting,  
+
+I love breaking limits, building unique ideas, and turning random thoughts into real projects.  
+Coding for me is a mix of fun, chaos, and discovery 🚀😎
 
 ## Skills & Technologies
 
@@ -26,4 +33,10 @@ With a strong enthusiasm for **JavaScript**, I am constantly learning new techno
 👥 **Followers**: 0  
 ➡️ **Following**: 1  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliazadi-1776&show_icons=true&hide_title=true&count_private=true&theme=radical)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliazadi-1776&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=linux&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian&perline=30)](https://skillicons.dev)
+
