@@ -24,7 +24,7 @@ Coding for me is a mix of fun, chaos, and discovery 🚀😎
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
