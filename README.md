@@ -34,7 +34,7 @@ Coding for me is a mix of fun, chaos, and discovery 🚀😎
 ## GitHub Stats
 🌟 **Public Repositories**: 2  
 👥 **Followers**: 0  
-➡️ **Following**: 1  
+➡️ **Following**: 2
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliazadi-1776&show_icons=true&hide_title=true&count_private=true&theme=radical)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliazadi-1776&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
