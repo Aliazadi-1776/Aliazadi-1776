@@ -27,7 +27,7 @@ Coding for me is a mix of fun, chaos, and discovery 🚀😎
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs&perline=8)](https://skillicons.dev)
 
 ## Top Projects
-
+[![Kali-Termux-Edition](https://github-readme-stats.vercel.app/api/pin/?username=Aliazadi-1776&repo=playwright-api-response-logger&theme=dark)](https://github.com/Aliazadi-1776/Kali-Termux-Edition)
 [![playwright-api-response-logger](https://github-readme-stats.vercel.app/api/pin/?username=Aliazadi-1776&repo=playwright-api-response-logger&theme=dark)](https://github.com/Aliazadi-1776/playwright-api-response-logger)
 [![gym-scraper](https://github-readme-stats.vercel.app/api/pin/?username=Aliazadi-1776&repo=gym-scraper&theme=dark)](https://github.com/Aliazadi-1776/gym-scraper)
 
