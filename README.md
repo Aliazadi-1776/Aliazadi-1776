@@ -28,7 +28,9 @@ Coding for me is a mix of fun, chaos, and discovery 🚀😎
 
 ## Top Projects
 [![Kali-Termux-Edition](https://github-readme-stats.vercel.app/api/pin/?username=Aliazadi-1776&repo=playwright-api-response-logger&theme=dark)](https://github.com/Aliazadi-1776/Kali-Termux-Edition)
+<br>
 [![playwright-api-response-logger](https://github-readme-stats.vercel.app/api/pin/?username=Aliazadi-1776&repo=playwright-api-response-logger&theme=dark)](https://github.com/Aliazadi-1776/playwright-api-response-logger)
+<br>
 [![gym-scraper](https://github-readme-stats.vercel.app/api/pin/?username=Aliazadi-1776&repo=gym-scraper&theme=dark)](https://github.com/Aliazadi-1776/gym-scraper)
 
 ## GitHub Stats
