@@ -26,8 +26,7 @@ Coding for me is a mix of fun, chaos, and discovery 🚀😎
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs&perline=8)](https://skillicons.dev)
 
+---
 
-[![My Skills](https://skillicons.dev/icons?i=linux&perline=30)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ubuntu&perline=30)](https://skillicons.dev)
-
+i need more cofee ☕
 
