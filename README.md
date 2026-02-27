@@ -22,9 +22,9 @@ I’m always learning, always experimenting,
 I love breaking limits, building unique ideas, and turning random thoughts into real projects.  
 Coding for me is a mix of fun, chaos, and discovery 🚀😎
 
-## Skills & Technologies
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,nodejs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&perline=8)](https://skillicons.dev)
 
 ---
 
