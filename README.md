@@ -21,7 +21,7 @@ Coding for me is a mix of fun, chaos, and discovery 🚀😎
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&perline=8)](https://skillicons.dev)
-
+[$ donate](https://daramet.com/wrench)
 ---
 
 i need more cofee ☕
