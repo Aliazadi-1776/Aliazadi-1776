@@ -12,7 +12,7 @@
 # 👋 About Me
 
 ```bash
-> whoami
+➜  ~  whoami
 
 Ali
 
