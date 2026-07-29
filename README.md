@@ -71,13 +71,7 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aliazadi-1776&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliazadi-1776&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -85,6 +79,27 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aliazadi-1776&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aliazadi-1776&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aliazadi-1776&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aliazadi-1776&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aliazadi-1776&theme=github_dark&utcOffset=3"/>
+
+</p>
 ---
 
 ## 📈 Contribution Graph
