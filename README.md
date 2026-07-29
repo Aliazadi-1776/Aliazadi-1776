@@ -71,8 +71,6 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aliazadi-1776&theme=transparent&hide_border=true"/>
