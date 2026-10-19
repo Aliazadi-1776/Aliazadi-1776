@@ -72,7 +72,7 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 ## 📊 GitHub Analytics
 
 <p align="center">
-
+<img alt="Your GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Aliazadi-1776&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true%22"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aliazadi-1776&theme=transparent&hide_border=true"/>
 
 </p>
