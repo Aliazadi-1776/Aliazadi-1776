@@ -98,25 +98,6 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aliazadi-1776&theme=github_dark&utcOffset=3"/>
 
 </p>
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliazadi-1776&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aliazadi-1776&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
