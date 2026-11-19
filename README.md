@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=WRENCH&fontSize=60&fontAlignY=40&animation=fadeIn&theme=transparent"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=WRENCH&fontSize=60&fontAlignY=40&animation=fadeIn&color=0D0D0D&fontColor=FF3B3B"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Front-end+Developer;Rust+%26+Tauri+Enthusiast;Open+Source+Builder;Coffee+Powered+%E2%98%95;Always+Building+Something+Cool"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF3B3B&center=true&vCenter=true&width=700&lines=Front-end+Developer;Rust+%26+Tauri+Enthusiast;Open+Source+Builder;Coffee+Powered+%E2%98%95;Always+Building+Something+Cool"/>
 
 </div>
-
 
 ---
 
@@ -39,7 +38,6 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 
 ---
 
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliazadi-1776/Aliazadi-1776/output/github-contribution-grid-snake-dark.svg">
@@ -49,6 +47,7 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 </p>
 
 ---
+
 ## 💻 Tech Stack
 
 ### 🌐 Front-end
@@ -72,8 +71,10 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img alt="Your GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Aliazadi-1776&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true%22"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aliazadi-1776&theme=transparent&hide_border=true"/>
+
+<img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Aliazadi-1776&theme=dark&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true&title_color=FF3B3B&icon_color=FF3B3B&text_color=E6EDF3&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aliazadi-1776&theme=dark&hide_border=true&background=0D1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=E6EDF3&dates=8B949E"/>
 
 </p>
 
@@ -109,14 +110,12 @@ Most of my time goes into experimenting with new ideas, creating open-source pro
   <img src="https://cdn.simpleicons.org/github/white" width="42"/>
 </a>
 
-
 <a href="mailto:im_wrench@proton.me">
-  <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" width="42"/>
+  <img src="https://cdn.simpleicons.org/protonmail/FF3B3B" width="42"/>
 </a>
 
-
 <a href="https://t.me/im_wrench">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="42"/>
+  <img src="https://cdn.simpleicons.org/telegram/FF3B3B" width="42"/>
 </a>
 
 </p>
@@ -137,9 +136,8 @@ https://daramet.com/wrench
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Aliazadi-1776&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Aliazadi-1776&style=for-the-badge&color=FF3B3B&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&theme=transparent"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0D0D0D"/>
 
 </div>
-
